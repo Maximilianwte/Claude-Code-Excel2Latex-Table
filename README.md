@@ -1,4 +1,4 @@
-# xlsx2latex
+# Claude Code Excel2Latex Table
 
 A [Claude Code](https://claude.com/claude-code) skill that converts an Excel
 table into a publication-quality LaTeX table sized to fit on one page in
